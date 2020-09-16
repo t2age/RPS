@@ -1,0 +1,10 @@
+# Make it permanent after shutdown/restart  
+# by Add following line to the file /etc/fstab
+#
+
+# MAKE A COPY OF THE ORIGINAL FILE
+#sudo  cp  /etc/fstab  /etc/fstab.OLD
+
+# ADD THE LINE AT THE END OF THE FILE
+#sudo  echo  "/swapfile    none    swap    sw    0    0"  >>  /etc/fstab
+
