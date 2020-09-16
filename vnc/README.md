@@ -4,13 +4,14 @@
 fresh install debian (sdCard fill)  
   
 then:  
-  
+```  
 sudo  apt-get  install  xserver-xorg-core  xfce4  tightvncserver  
+```
 
-
-[Following is optional, just an extra]
+[Following is optional, just an extra]  
+```
 sudo  apt-get  install  xfce4-terminal
-
+```
   
 then: restart  
   
@@ -46,7 +47,7 @@ Pict 4 - Running Electron (JavaScript GUI Framework)
   
   
 ![](img/GIMP-vnc.png)  
-Pict 4 - Running Electron (JavaScript GUI Framework)  
+Pict 5 - Running GIMP 2.10  
   
 -----
   
