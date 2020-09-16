@@ -16,7 +16,7 @@ sudo  apt-get  install  xfce4-terminal
 then: restart  
   
   
-Start the VNC server on RockPI S:  
+Start the VNC server on RockPI S (as normal user, rock):  
 ```
 vncserver  -geometry  900x500  
 ```
