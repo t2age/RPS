@@ -17,11 +17,15 @@ then: restart
   
   
 Start the VNC server on RockPI S:  
+```
 vncserver  -geometry  900x500  
+```
   
   
 [On the client viewer]  
+```
 vncviewer  rockpis:1  
+```
   
   
 ![](img/rockpis-vnc-GUI.png)  
@@ -35,7 +39,7 @@ Pict 2 - Chromium WebBrowser visiting RockPIS website...
   
 -----
 ![](img/RockPIS-browser-SWAP.png)  
-Pict 3 - It is better to have a swap file, otherwise the browser takes to long to work...  
+Pict 3 - It is better to have a swap file, otherwise the browser takes too long to work...  
   
 -----
   
