@@ -1,0 +1,10 @@
+# Create a file /etc/systemd/system/bootOTG.service:
+
+[Unit]
+Description=bootOTG script
+
+[Service]
+ExecStart=/etc/bootOTG/bootOTGcheck.sh
+
+[Install]
+WantedBy=multi-user.target
