@@ -1,2 +1,3 @@
-# RPS
-Little RockPI S Single Board Compute
+# RPS Swap File
+Create a swap file for Official O.S. Image.  
+
