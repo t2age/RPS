@@ -28,7 +28,7 @@ I want to have ideas about how lower in resources we can go, and yet still run c
 One thing that I want, is to have some idea about is how clock speed and core count influence battery life, and what we can do about it...  
   
   
-**SWAP**
+**SWAP**  
 With very little experimentation, I was convinced that we just NEED a swap file to keep things going. For example, even with "full 256MB", trying to run Chromium WebBrowser inside a VNC session proves to be very slow WITHOUT a swap file... on the other hand, when a 256MB Swap File is added as swap, things go way better in terms of time to execute...
 So, if ones wants to experiment with lower RAM, say, 128MB or 192MB, I strongly recommend a swap file before trying!  
   
@@ -54,7 +54,7 @@ I have great interest in learning as much as possible about systema with low res
   
 My main motivation are systems (hardware & software) with SINGLE APPLICATION in mind, runnning PERMANENTLY dedicated to ONE APP, having as little O.S. and support modules as possible...  
   
-**REMARKABLE Compute Device**
+**REMARKABLE Compute Device**  
 It is within this category of compute devices that I believe RockPI S is REMARKABLY INTERESTING  
   
 Because its simplicity and low cost, and yet, its 4 cores 64bits and relative good performance, we can think about APPS and a blending of SOFT+HARD, both acting together to accomplish ONE SPECIFIC GOAL...  
@@ -62,7 +62,7 @@ Because its simplicity and low cost, and yet, its 4 cores 64bits and relative go
 Small physical size and low power consumption are also KEY feature for this kind of thinking...  
   
   
-**Low Power Compute Software & Hardware**
+**Low Power Compute Software & Hardware**  
 Since the creation of the smartphone and popularization of Single Board Computers, powered by low power chips mainly of ARM archicture, we are enjoying LOW POWER COMPUTE HARDWARE, but still, on the SBC side, we keep using software created on the desktop PC for the desktop PC, where resources are always superdimensioned... there are always lots of RAM, lots of CPU power, etc...  
   
 Now that we have plenty of LOW POWER COMPUTE HARDWARE, it is time to shift the paradigm to a new mindset: A LOW POWER COMPUTE SOFTWARE (LPC Soft)!  
